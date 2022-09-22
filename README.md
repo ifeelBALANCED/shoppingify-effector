@@ -45,3 +45,4 @@ You can learn more in the [Vite.js documentation](https://vitejs.dev/guide/).
 To view why you should to choose Vite.js [Vite why guide](https://vitejs.dev/guide/why.html).
 # shoppingify-effector
 # shoppingify-effector
+# shoppingify-effector
