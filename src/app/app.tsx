@@ -32,45 +32,6 @@ const App = (): JSX.Element => {
         >
           <Image src={logo} alt="" h="40vmin" />
         </motion.div>
-        <Text fontSize={textFontSizes}>
-          Hello Vite + React + Typescript + Chakra UI!
-        </Text>
-        <Button
-          colorScheme="blue"
-          fontSize={textFontSizes}
-          onClick={() => setCount((c) => c + 1)}
-          marginTop="2"
-        >
-          count is: {count}
-        </Button>
-        <Text fontSize={textFontSizes}>
-          Hello Vlad! Edit <code>App.tsx</code> and save to test HMR updates.
-        </Text>
-        <Text fontSize={textFontSizes}>
-          <Link href="https://reactjs.org" isExternal color="#61dafb">
-            Learn React
-          </Link>
-          {' | '}
-          <Link
-            href="https://vitejs.dev/guide/features.html"
-            isExternal
-            color="#61dafb"
-          >
-            Vite Docs
-          </Link>
-          {' | '}
-          <Link
-            href="https://www.typescriptlang.org/"
-            isExternal
-            color="#61dafb"
-          >
-            Typescript
-          </Link>
-          {' | '}
-          <Link href="https://chakra-ui.com" isExternal color="#61dafb">
-            Chakra UI
-          </Link>
-        </Text>
       </Flex>
       <ThemeToggleButton pos="fixed" bottom="2" right="2" />
     </Box>

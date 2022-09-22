@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e95453ae-0178-42c8-9f61-af1b2ee80b69" name="Changes" comment="fix: init 🌿">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="e95453ae-0178-42c8-9f61-af1b2ee80b69" name="Changes" comment="fix: init 🍄">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +62,7 @@
       <workItem from="1663837759733" duration="140000" />
       <workItem from="1663838332145" duration="164000" />
       <workItem from="1663838499858" duration="559000" />
-      <workItem from="1663839100934" duration="3923000" />
+      <workItem from="1663839100934" duration="4395000" />
     </task>
     <task id="LOCAL-00001" summary="fix: init 🌿">
       <created>1663852664112</created>
@@ -71,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663852664112</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fix: init 🍄">
+      <created>1663853798906</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663853798907</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +97,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="fix: init " />
     <MESSAGE value="fix: init " />
     <option name="LAST_COMMIT_MESSAGE" value="fix: init " />
   </component>
