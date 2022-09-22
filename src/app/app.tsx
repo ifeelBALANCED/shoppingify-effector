@@ -44,7 +44,7 @@ const App = (): JSX.Element => {
           count is: {count}
         </Button>
         <Text fontSize={textFontSizes}>
-          Edit <code>App.tsx</code> and save to test HMR updates.
+          Hello Vlad! Edit <code>App.tsx</code> and save to test HMR updates.
         </Text>
         <Text fontSize={textFontSizes}>
           <Link href="https://reactjs.org" isExternal color="#61dafb">
