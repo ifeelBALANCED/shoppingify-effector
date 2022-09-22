@@ -1,36 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e95453ae-0178-42c8-9f61-af1b2ee80b69" name="Changes" comment="" />
+    <list default="true" id="e95453ae-0178-42c8-9f61-af1b2ee80b69" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/coverage/clover.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/coverage-final.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/block-navigation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/prettify.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/prettify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/sort-arrow-sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/sorter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/src/app/app.tsx.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/src/app/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/src/app/theme/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/src/app/theme/theme.ts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/src/app/utils/general.ts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/src/app/utils/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/src/main.tsx.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/src/shared/color-button/color-button.stories.tsx.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/src/shared/color-button/color-button.tsx.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/src/shared/color-button/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/src/shared/toggle-theme-button/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/src/shared/toggle-theme-button/index.ts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/src/shared/toggle-theme-button/theme-toggle-button.tsx.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.circleci/config.yml " beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/vite.config.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="2F7KblFds5DszF8h2XRkPcmikoM" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Project.color&quot;: &quot;284c1e&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Project.color": "284c1e",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "ts.external.directory.path": "/Users/annasofronova/WebstormProjects/shoppingify-effector/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -41,6 +88,8 @@
       <updated>1663837755877</updated>
       <workItem from="1663837759733" duration="140000" />
       <workItem from="1663838332145" duration="164000" />
+      <workItem from="1663838499858" duration="559000" />
+      <workItem from="1663839100934" duration="2804000" />
     </task>
     <servers />
   </component>
@@ -57,5 +106,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
