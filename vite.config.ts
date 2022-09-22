@@ -12,11 +12,6 @@ export default defineConfig({
     reactRefresh(),
     reactJsx(),
   ],
-  esbuild: {
-    jsxFactory: '_jsx',
-    jsxFragment: '_jsxFragment',
-    jsxInject: `import { createElement as _jsx, Fragment as _jsxFragment } from 'react'`,
-  },
   resolve: {
     alias: {
       "@": fileURLToPath(new URL("./src", import.meta.url)),
