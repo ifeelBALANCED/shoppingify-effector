@@ -4,53 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e95453ae-0178-42c8-9f61-af1b2ee80b69" name="Changes" comment="fix: hyinit 🦄">
-      <change afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/routing/homeRouting.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/routing/routes.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/home/home.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/home/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/lib/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/lib/namedLazy.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+    <list default="true" id="e95453ae-0178-42c8-9f61-af1b2ee80b69" name="Changes" comment="fix: gitignore">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shoppingify-effector.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shoppingify-effector.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/@chakra-ui_icons.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/@chakra-ui_icons.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/@chakra-ui_react.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/@chakra-ui_react.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/@chakra-ui_react.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/@chakra-ui_react.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/@emotion_styled.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/@emotion_styled.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/_metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/_metadata.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/chunk-B53VAGGE.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/chunk-B53VAGGE.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/chunk-DKUERPE2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/chunk-DKUERPE2.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/chunk-GTJKIIL3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/chunk-GTJKIIL3.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/framer-motion.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/framer-motion.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.yarn-integrity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/copy-to-clipboard/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/copy-to-clipboard/example/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/copy-to-clipboard/example/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/copy-to-clipboard/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/copy-to-clipboard/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/copy-to-clipboard/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/copy-to-clipboard/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/copy-to-clipboard/yarn.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/stackframe/.eslintrc.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/stackframe/.github/workflows/ci.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/stackframe/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/stackframe/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/stackframe/bower.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/stackframe/component.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/stackframe/karma.conf.ci.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/stackframe/karma.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/stackframe/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/stackframe/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/stackframe/stackframe-tests.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/stackframe/stackframe.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/stackframe/stackframe.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/routing/appRouting.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +37,7 @@
     <option name="myRunOnSave" value="true" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2F7KblFds5DszF8h2XRkPcmikoM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -140,7 +97,7 @@
       <workItem from="1663837759733" duration="140000" />
       <workItem from="1663838332145" duration="164000" />
       <workItem from="1663838499858" duration="559000" />
-      <workItem from="1663839100934" duration="7768000" />
+      <workItem from="1663839100934" duration="8193000" />
     </task>
     <task id="LOCAL-00001" summary="fix: init 🌿">
       <created>1663852664112</created>
@@ -163,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663854177562</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fix: eslint 🦄">
+      <created>1663914286097</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663914286097</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,6 +149,8 @@
     <MESSAGE value="fix: init " />
     <MESSAGE value="fix: init " />
     <MESSAGE value="fix: hyinit " />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: hyinit " />
+    <MESSAGE value="fix: eslint " />
+    <MESSAGE value="fix: gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: gitignore" />
   </component>
 </project>
