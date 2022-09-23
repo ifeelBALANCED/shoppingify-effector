@@ -5,9 +5,63 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e95453ae-0178-42c8-9f61-af1b2ee80b69" name="Changes" comment="fix: gitignore">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shoppingify-effector.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shoppingify-effector.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/ui/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/ui/layouts/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/ui/layouts/main-layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/ui/loader/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/ui/loader/loader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/ui/loader/loader.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/ui/suspensy/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/ui/suspensy/suspensy.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.eslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/@chakra-ui_react.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/@chakra-ui_react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/@chakra-ui_react.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/@chakra-ui_react.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/_metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/_metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/chunk-7XBKK7TY.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/chunk-7XBKK7TY.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/chunk-CEXRMAL4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/chunk-CEXRMAL4.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/react-dom_client.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/react-dom_client.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.yarn-integrity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server-legacy.browser.development.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server-legacy.browser.development.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server-legacy.browser.production.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server-legacy.browser.production.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server-legacy.node.development.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server-legacy.node.development.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server-legacy.node.production.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server-legacy.node.production.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server.browser.development.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server.browser.development.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server.node.development.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server.node.development.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server.node.production.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server.node.production.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom.development.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom.development.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom.production.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom.production.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom.profiling.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom.profiling.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-dom/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-server-legacy.browser.development.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-server-legacy.browser.development.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-server-legacy.browser.production.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-server-legacy.browser.production.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-server.browser.development.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-server.browser.development.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-server.browser.production.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-server.browser.production.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom.development.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom.development.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom.production.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom.production.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom.profiling.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom.profiling.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react/cjs/react-jsx-dev-runtime.development.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react/cjs/react-jsx-dev-runtime.development.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react/cjs/react-jsx-runtime.development.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react/cjs/react-jsx-runtime.development.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react/cjs/react.development.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react/cjs/react.development.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react/cjs/react.production.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react/cjs/react.production.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react/umd/react.development.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react/umd/react.development.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react/umd/react.production.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react/umd/react.production.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react/umd/react.profiling.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react/umd/react.profiling.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/scheduler/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/scheduler/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/routing/appRouting.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/routing/appRouting.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/routing/homeRouting.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/routing/homeRouting.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/vite.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +84,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/node_modules/@testing-library/dom/package.json" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -37,7 +94,7 @@
     <option name="myRunOnSave" value="true" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2F7KblFds5DszF8h2XRkPcmikoM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -97,7 +154,7 @@
       <workItem from="1663837759733" duration="140000" />
       <workItem from="1663838332145" duration="164000" />
       <workItem from="1663838499858" duration="559000" />
-      <workItem from="1663839100934" duration="8193000" />
+      <workItem from="1663839100934" duration="13435000" />
     </task>
     <task id="LOCAL-00001" summary="fix: init 🌿">
       <created>1663852664112</created>
@@ -127,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663914286097</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fix: gitignore">
+      <created>1663914527392</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663914527392</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

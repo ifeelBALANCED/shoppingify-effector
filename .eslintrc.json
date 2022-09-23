@@ -8,7 +8,10 @@
     "plugin:react-hooks/recommended",
     "airbnb",
     "plugin:@typescript-eslint/recommended",
-    "prettier"
+    "prettier",
+    "plugin:import/errors",
+    "plugin:import/warnings",
+    "plugin:import/typescript"
   ],
   "parser": "@typescript-eslint/parser",
   "parserOptions": {
@@ -33,6 +36,8 @@
     }
   },
   "rules": {
+    "import/prefer-default-export": "off",
+    "import/no-unresolved": "off",
     "no-use-before-define": "off",
     "react/react-in-jsx-scope": "off",
     "react/jsx-filename-extension": ["warn", { "extensions": [".tsx"] }],
