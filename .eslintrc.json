@@ -1,14 +1,19 @@
 {
   "env": {
     "browser": true,
-    "es2021": true
+    "es2021": true,
+    "es6": true,
+    "node": true
   },
   "extends": [
     "plugin:react/recommended",
     "plugin:react-hooks/recommended",
     "airbnb",
     "plugin:@typescript-eslint/recommended",
-    "prettier"
+    "prettier",
+    "plugin:import/errors",
+    "plugin:import/warnings",
+    "plugin:import/typescript"
   ],
   "parser": "@typescript-eslint/parser",
   "parserOptions": {
@@ -33,6 +38,11 @@
     }
   },
   "rules": {
+    "import/prefer-default-export": "off",
+    "import/no-unresolved": "off",
+    "import/no-extraneous-dependencies": ["error", {"devDependencies": true}],
+    "global-require": 0,
+    "@typescript-eslint/no-var-requires": 0,
     "no-use-before-define": "off",
     "react/react-in-jsx-scope": "off",
     "react/jsx-filename-extension": ["warn", { "extensions": [".tsx"] }],
@@ -41,7 +51,7 @@
     "linebreak-style": "off",
     "eol-last": "off",
     "max-len": ["warn", { "code": 80 }],
-    "import/extensions": ["error", "never", { "svg": "always" }],
+    "import/extensions": ["error", "never", { "svg": "always", "css": "always" }],
     "prettier/prettier": [
       "error",
       {
