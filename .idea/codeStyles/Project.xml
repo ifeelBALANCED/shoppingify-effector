@@ -33,7 +33,7 @@
       </indentOptions>
     </codeStyleSettings>
     <codeStyleSettings language="JavaScript">
-      <option name="RIGHT_MARGIN" value="80" />
+      <option name="RIGHT_MARGIN" value="120" />
       <option name="BLOCK_COMMENT_ADD_SPACE" value="true" />
       <option name="SOFT_MARGINS" value="80" />
       <indentOptions>
@@ -43,7 +43,7 @@
       </indentOptions>
     </codeStyleSettings>
     <codeStyleSettings language="TypeScript">
-      <option name="RIGHT_MARGIN" value="80" />
+      <option name="RIGHT_MARGIN" value="120" />
       <option name="BLOCK_COMMENT_ADD_SPACE" value="true" />
       <option name="SOFT_MARGINS" value="80" />
       <indentOptions>
